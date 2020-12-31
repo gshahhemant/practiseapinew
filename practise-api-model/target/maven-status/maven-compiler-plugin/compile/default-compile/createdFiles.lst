@@ -1,0 +1,17 @@
+com\practise\api\model\QhqeAudit.class
+com\practise\api\common\Messages.class
+com\practise\api\common\AbstractModelTranslator.class
+com\practise\api\exception\UserProvExceptionControllerAdvice.class
+com\practise\api\common\model\BaseResponse.class
+com\practise\api\common\UserProvConstant.class
+com\practise\api\model\ItemVO.class
+com\practise\api\common\ModelTranslator.class
+com\practise\api\model\User.class
+com\practise\api\model\UserDetailWrapper.class
+com\practise\api\common\model\Status.class
+com\practise\api\model\Qhqe.class
+com\practise\api\common\model\ErrorDetail.class
+com\practise\api\exception\UserProServiceException.class
+com\practise\api\model\QhqeUserDetails.class
+com\practise\api\model\UserOperation.class
+com\practise\api\model\ProductVO.class

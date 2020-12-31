@@ -1,0 +1,3 @@
+jndidatasource:
+  tlm: jdbc/tlm
+  tlmplatform: org.hibernate.dialect.Oracle10gDialect

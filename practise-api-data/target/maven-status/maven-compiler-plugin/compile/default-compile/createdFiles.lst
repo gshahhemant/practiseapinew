@@ -1,0 +1,9 @@
+com\practise\api\config\H2DbConfig.class
+com\practise\api\impl\QhqeOperationImpl.class
+com\practise\api\repositories\ProductRepoDAO.class
+com\practise\api\jpa\entity\Item.class
+com\practise\api\jpa\entity\QhqeUserEntity.class
+com\practise\api\translator\QhqeUserTranslator.class
+com\practise\api\jpa\entity\Product.class
+com\practise\api\impl\QhqeOperation.class
+com\practise\api\repositories\QhqeRepository.class
